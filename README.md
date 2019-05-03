@@ -1,5 +1,5 @@
 # jscad-starter
-A simple, empty starter project for JSCAD. It auto-rebuilds STLs on any change.
+A simple, empty starter project for JSCAD. It auto-rebuilds STLs on every change.
 
 # Usage
 Using this repo as a base, you'll be able to quickly bootstrap your JSCAD projects. Please follow these steps, to get a working project within minutes:
